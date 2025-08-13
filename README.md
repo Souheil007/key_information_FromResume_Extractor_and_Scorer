@@ -1,4 +1,4 @@
-# Key\_Information\_From\_Resume\_Extractor\_and\_Scorer
+# ResumeExtractorAndScorer
 
 ## Overview
 
